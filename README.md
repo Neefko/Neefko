@@ -14,7 +14,7 @@
 
 <div>
   
-I programmer from Russia⛄. I program in Python🐍, C++ and C#
+I programmer from Russia⛄. I programming in Python🐍, C++ and C#
 
 - ⚡ Fun fact: I learning Arduino 
 
