@@ -3,13 +3,11 @@
 </div>  
   
 
-### <div align="center">Hi, My name is Ruslan or Nifko👋 </div>  
+### <div align="center">Hi, My name is Nifko or Ruslan👋 </div>
+I programmer from Russia⛄. I program in Python🐍, C++ and C#
   
-
+- ⚡ Fun fact: I learning Arduino 
 - ☕ I’m currently learning Java  
-  
-
-- ⚡ Fun fact: I learning Arduino  
   
 
 <br/>  
