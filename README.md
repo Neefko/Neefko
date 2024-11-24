@@ -1,13 +1,24 @@
 ### <div align="center">Hi, My name is Nifko or Ruslan👋 </div>
+
+---
+
 <div align="center">
 <img src="https://s11.gifyu.com/images/SGvuJ.gif" align="center" style="width: 100%" />
 </div>  
 
+---
+
+### :man_technologist: About Me :
+
+<br/>
+
+<div>
+  
 I programmer from Russia⛄. I program in Python🐍, C++ and C#
-- ⚡ Fun fact: I learning Arduino 
+ ⚡ Fun fact: I learning Arduino 
 
 - ☕ I’m currently learning Java  
-  
+ </div>
 
 <br/>  
 
