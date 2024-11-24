@@ -6,7 +6,7 @@
 ### <div align="center">Hi, My name is Ruslan or Nifko👋 </div>  
   
 
-- 🌱 I’m currently learning Java  
+- ☕ I’m currently learning Java  
   
 
 - ⚡ Fun fact: I learning Arduino  
@@ -87,13 +87,12 @@
 
 
 ## Github Stats  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neefko&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neefko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neefko&layout=compact&theme=github_dark_dimmed)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neefko&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)</div>
 <br/>    
 
 <br/>  
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Neefko&&style=flat-square" align="center" />
 </div>  
