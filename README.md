@@ -1,4 +1,4 @@
-Э<div align="center">
+<div align="center">
 <img src="https://s11.gifyu.com/images/SGvuJ.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -40,7 +40,7 @@
 ---
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/flask.png" alt="flask"/></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/flask.png" alt="flask" height="50"/></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
