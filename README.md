@@ -81,7 +81,7 @@ I programmer from Russia⛄. I programming in Python🐍, C++ and C#
 ## Connect with me  
 <div align="center">
   
-[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/810927463374782495)
+[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/996839713438699550)
 
 <a href="https://github.com/Neefko" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
