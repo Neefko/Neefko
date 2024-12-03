@@ -96,7 +96,7 @@ I programmer from Russia⛄. I programming in Python🐍, C++ and C#
 
 
 ## Github Stats  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Neefko&layout=compact&theme=github_dark_dimmed)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Neefko)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neefko&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)</div>
 <br/>    
 
