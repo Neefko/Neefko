@@ -89,10 +89,9 @@ I programmer from Russia⛄. I programming in Python🐍, C++ and C#
 <a href="https://www.youtube.com/@Arbuzik3333" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
 
-<br/>  
+
+</div>   
 
 
 ## Github Stats  
