@@ -16,7 +16,7 @@
   
 I programmer from Russia⛄. I programming in Python🐍, C++ and C#
 
-- ⚡ Fun fact: I learning Arduino 
+- ⚡ I’m currently learning Arduino 
 
 - ☕ I’m currently learning Java  
  </div>
