@@ -86,7 +86,7 @@ I programmer from Russia⛄. I programming in Python🐍, C++ and C#
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@Arbuzik3333" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
 </a>  
 
 
@@ -95,7 +95,10 @@ I programmer from Russia⛄. I programming in Python🐍, C++ and C#
 
 ## Github Stats  
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Neefko&theme=github-dark-blue&hide_border=true&locale=ru)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neefko&layout=compact&theme=github_dark_dimmed&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Neefko&layout=compact&theme=github_dark&hide_border=true" />
+
+
+
 
 <br/>    
 
