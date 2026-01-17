@@ -11,7 +11,9 @@
 ### :man_technologist: About Me :
 <div>
 I programmer from Russia⛄. I programming in Python🐍, C++ and C#
+ 
 - ⚡ I’m currently learning CS
+  
 - ☕ I’m so learning higher mathematics
  </div>
 
